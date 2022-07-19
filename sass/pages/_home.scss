@@ -19,7 +19,7 @@ $color-freeze: #2f8f9d;
       rgba($color-freeze, 0.3),
       rgba($color-freeze, 0.3)
     ),
-    url(../../img/nat-4.jpg);
+    url(../img/nat-4.jpg);
 
   // @media (min-resolution: 192dpi) and (min-width: 37.5em), (min-width: 125em) {
   //   background-image: linear-gradient(
@@ -84,7 +84,7 @@ $color-freeze: #2f8f9d;
       rgba($color-white, 0.9) 50%,
       transparent 50%
     ),
-    url(../../img/nat-10.jpg);
+    url(../img/nat-10.jpg);
   background-size: 100%;
   border-radius: 3px;
   box-shadow: 0 1.5rem 4rem rgba($color-black, $alpha: 0.15);
@@ -95,7 +95,7 @@ $color-freeze: #2f8f9d;
         rgba($color-white, 0.9) 65%,
         transparent 65%
       ),
-      url(../../img/nat-10.jpg);
+      url(../img/nat-10.jpg);
 
     background-size: cover;
   }
@@ -106,7 +106,7 @@ $color-freeze: #2f8f9d;
         rgba($color-white, 0.9) 0%,
         rgba($color-white, 0.9) 100%
       ),
-      url(../../img/nat-10.jpg);
+      url(../img/nat-10.jpg);
   }
 
   &__form {
