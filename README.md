@@ -1,6 +1,8 @@
 # Natours
 
-> ### Pure CSS website to practice the latest **Advanced CSS and SASS Features**.
+> ### Pure CSS website to practice the latest **Advanced CSS and SASS Features**
+>
+> .
 
 ## Built With
 
@@ -18,24 +20,12 @@
 
 [Natours Live Demo](https://nurulloo.github.io/natours_portfolio/)
 
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-```bash
-git clone git@github.com:Bondok6/Natours.git
-```
-
-```bash
-cd Natours
-```
-
 ## Authors
 
 👤 **Nurullo Azim**
 
 - GitHub: [@Nurulloo](https://github.com/Nurulloo)
-- Mail: [Write to me](https://linkedin.com/in/linkedinhandle)
+- Contact me: [sherlockddr4@gmail.com](sherlockddr4@gmail.com)
 
 ## 🤝 Contributing
 
