@@ -1,8 +1,6 @@
 # Natours
 
-> ### Pure CSS website to practice the latest **Advanced CSS and SASS Features**
->
-> .
+> ### Pure CSS website to practice the latest **Advanced CSS and SASS Features**.
 
 ## Built With
 
