@@ -25,7 +25,7 @@
 👤 **Nurullo Azim**
 
 - GitHub: [@Nurulloo](https://github.com/Nurulloo)
-- Contact me: [sherlockddr4@gmail.com](sherlockddr4@gmail.com)
+- Contact me: [here](mailto:sherlockddr4@gmail.com)
 
 ## 🤝 Contributing
 
